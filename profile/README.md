@@ -17,4 +17,5 @@ through these research groups:
 - [umcu7tcoillab (UMC Utrecht 7T Coillab)](https://github.com/umcu7tcoillab) - The coillab is part of the High field MRI group at the UMC Utrecht
 - [ECGxAI](https://github.com/UMCUtrecht-ECGxAI) - Research group AI for cardiology
 - [MMB-UMCU](https://github.com/MMB-UMCU) - Bioinformatics group of the medical microbiology department, UMC Utrecht
+- [UPOD](https://github.com/UPOD-datascience) - UPOD, applied datascience of the Central Diagnostic Laboratory
 - [UBEC](https://github.com/UBEC) - Utrecht Bioinformatics Expertise Core, UMC Utrecht
